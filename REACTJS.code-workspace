@@ -1,0 +1,53 @@
+{
+	"folders": [
+		{
+			"path": "2-html website"
+		},
+		{
+			"path": "css"
+		},
+		{
+			"path": "5-flexbox"
+		},
+		{
+			"path": "6-flexbox website"
+		},
+		{
+			"path": "besnik"
+		},
+		{
+			"path": "DOM"
+		},
+		{
+			"path": "object-project"
+		},
+		{
+			"path": "AJAX"
+		},
+		{
+			"path": "JS"
+		},
+		{
+			"path": "../react/review-app"
+		},
+		{
+			"path": "bootstrap"
+		},
+		{
+			"path": "cms"
+		},
+		{
+			"path": "canteen_management_system_django_project"
+		},
+		{
+			"path": "canteen"
+		},
+		{
+			"path": "sample"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JS",
+		"liveServer.settings.port": 5501
+	}
+}

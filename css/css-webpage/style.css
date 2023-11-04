@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h4{
+   color: white;
+   background-color: blue;
+}
+.container{
+    padding: 15px auto;
+    
+}
+nav{
+    padding: 15px auto;
+    background-color: grey;
+}
+nav a{
+    color: #ffffff;
+    text-decoration: none;
+    padding: 50px;
+    margin-left: auto;
+}

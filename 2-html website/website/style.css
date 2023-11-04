@@ -1,0 +1,38 @@
+body{
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+header{
+    background-color:rgb(164, 242, 201);
+    text-align: center;
+}
+nav ul{
+    padding: 0px;
+}
+nav ul li{
+    display: inline;
+    padding: 90px;
+}
+
+nav ul li a{
+    border: 2px solid rgb(159, 242, 159);
+    border-radius: 10px;
+    padding: 10px;
+    color: black;
+}
+
+nav ul li a:hover{
+    background-color: yellow;
+    color: green;
+
+}
+
+.one{
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px;
+
+}
